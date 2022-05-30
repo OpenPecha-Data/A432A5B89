@@ -1,0 +1,19 @@
+segment_sources:
+  IEBCE4968:
+    type: origin_type
+    relation: translation
+    language: en
+  I76B5AE5A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  693bcab0f4ef453aa64aef65131d0e53:
+    IEBCE4968: c1256a779df643839c808c46345e9360
+    I76B5AE5A: f9a766f3731e455c815aec9ece8f4f50
+  6e4277167c31408cb1567a42d9e43253:
+    IEBCE4968: 234b8cde3b4340f496961e17160f2162
+    I76B5AE5A: f93f6adfe4d24329aa1ab2ed463d00fc
+  89c55dd49cdc482c822fe42a08db60a6:
+    IEBCE4968: 62a84e3b2514426ca1deaa03abf79410
+    I76B5AE5A: 19c4ff3165da45d889a3025c4735fc52
